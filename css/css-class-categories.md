@@ -1,5 +1,11 @@
 ## CSS Classes Categories
 
+- Alignment
+  - Align Content
+  - Align Items
+  - Justify Content
+  - Justify Items
+  - Text Align
 - Background
   - Background Color
 - Border
