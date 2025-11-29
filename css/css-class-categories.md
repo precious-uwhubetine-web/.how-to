@@ -4,12 +4,20 @@
   - Background Color
 - Border
   - Border Color
+  - Border Bottom Color
+  - Border Left Color
+  - Border Right Color
+  - Border Top Color
   - Border Radius
   - Border Bottom Left Radius
   - Border Bottom Right Radius
   - Border Top Left Radius
   - Border Top Right Radius
   - Border Width
+  - Border Bottom Width
+  - Border Left Width
+  - Border Right Width
+  - Border Top Width
 - Color
 - Effect
   - Animation
