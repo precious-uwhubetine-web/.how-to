@@ -1,4 +1,4 @@
-- Divide code into blocks (identify global, page, and component blocks)
+- Divide design into blocks (identify global, page, and component blocks)
 - Build global blocks
   - Create global CSS classes
   - Create global JS functions
