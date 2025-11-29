@@ -1,4 +1,4 @@
-## CSS Global Classes Categories
+## CSS Classes Categories
 
 - Background
   - Background Color
